@@ -59,5 +59,4 @@ wget http://95.111.237.31/scrypta-wallet.deb && apt install ./scrypta-wallet.deb
 
 cd ~/.lyra && wget http://bootstrap.scryptachain.org/latest.zip && unzip latest.zip && rm latest.zip
 cd ~/
-
-
+lyrad &
